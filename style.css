@@ -1,0 +1,32 @@
+body {
+    margin: 0px;
+}
+
+header {
+    height: 30px;
+    background-color: aliceblue;
+    padding: 3px 0px 3px 15px;
+}
+
+#logo {
+    height: 100%;
+    vertical-align: middle;
+}
+
+#navigation, #navigation li {
+    display: inline;
+    margin-left: 15px;
+}
+
+h2 {
+    text-align: center;
+    color: #315be6;
+    padding-left: 15px;
+}
+
+#calltoaction {
+    color: #ffffff;
+    font-weight: bold;
+    background-color:#315be6;
+    border-radius: 10px;
+}
